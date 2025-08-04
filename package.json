@@ -6,10 +6,11 @@
   "homepage": "https://Chanuka-Dushan.github.io/My-3D-Portfolio",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+      "build": "vite build",
+  "deploy": "npm run build && echo '' > dist/.nojekyll && gh-pages -d dist",
     "preview": "vite preview",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "predeploy": "npm run build"
+    
   },
   "dependencies": {
     "@emailjs/browser": "^3.10.0",
