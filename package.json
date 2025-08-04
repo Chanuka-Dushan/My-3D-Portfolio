@@ -1,7 +1,7 @@
 {
   "name": "my-new-portfolio",
   "type": "module",
-  "homepage": "https://Chanuka-Dushan.github.io/my-new-portfolio",
+  "homepage": "https://Chanuka-Dushan.github.io/my-new-portfolio/",
   "scripts": {
     "dev": "vite",
       "build": "vite build",
