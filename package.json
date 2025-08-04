@@ -1,9 +1,9 @@
 {
-  "name": "3dfolio",
+  "name": "my-new-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Chanuka-Dushan.github.io/My-3D-Portfolio",
+  "homepage": "https://Chanuka-Dushan.github.io/my-new-portfolio",
   "scripts": {
     "dev": "vite",
       "build": "vite build",
